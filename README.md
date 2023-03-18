@@ -8,7 +8,10 @@
 </div>
 
 
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=gtoo8888&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<!-- 热门语言中，去掉了html,css,javascript,是自动生成的博客 -->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gtoo8888&show_icons=true" alt="gtoo8888's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtoo8888&layout=compact&theme=buefy&hide_border=true&hide=html,css,javascript" alt="gtoo8888's github Top Languages"/></a> |
+| ------------- | ------------- |
+
 
 
 <div align="left"> <img src="https://leetcard.jacoblin.cool/lovd_fan_pig?theme=light&font=Port%20Lligat%20Sans&ext=heatmap&site=cn" /> </div>

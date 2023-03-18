@@ -8,4 +8,8 @@
 [一些图标](https://simpleicons.org/)
 [图标列表](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md)
 [常见emjoy](https://www.emojiall.com/zh-hans/categories/B)
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
+[中文介绍](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
+
+
 
