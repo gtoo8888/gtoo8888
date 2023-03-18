@@ -30,6 +30,9 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![Shell Badge](https://img.shields.io/badge/Shell-FFD500?logo=shell&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![CMake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=flat)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 
 💪 正在学习
@@ -39,6 +42,7 @@
 )
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=fff&style=flat)
+![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=fff&style=flat)
 
 🧠 计划学习
 
@@ -51,35 +55,39 @@
 
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=fff&style=flat)
-![etcd Badge](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=fff&style=flat)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=fff&style=flat)
-![Ansible Badge](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=flat)
-![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=ApacheJMeter&logoColor=fff&style=flat)
+![etcd Badge](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=fff&style=flat)
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHubActions&logoColor=fff&style=flat)
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=Lua&logoColor=fff&style=flat)
-![Jinja Badge](https://img.shields.io/badge/Jinja-B41717?logo=Jinja&logoColor=fff&style=flat)
+
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=fff&style=flat)
+![Vue Badge](https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=fff&style=flat)
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
+
+![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=ApacheJMeter&logoColor=fff&style=flat)
+![Ansible Badge](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=fff&style=flat)
+![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=Lua&logoColor=fff&style=flat)
+![Jinja Badge](https://img.shields.io/badge/Jinja-B41717?logo=Jinja&logoColor=fff&style=flat)
+
 
 🧰 常用的工具
 
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![CMake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![CentOS Badge](https://img.shields.io/badge/CentOS-262577?logo=CentOS&logoColor=fff&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![CentOS Badge](https://img.shields.io/badge/CentOS-262577?logo=CentOS&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![Vim Studio Badge](https://img.shields.io/badge/Vim-019733?logo=Vim&logoColor=fff&style=flat)
+![PyCharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=fff&style=flat)
+
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Gitee Badge](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Vim Studio Badge](https://img.shields.io/badge/Vim-019733?logo=Vim&logoColor=fff&style=flat)
 ![OBS Studio Badge](https://img.shields.io/badge/OBS-302E31?logo=OBSStudio&logoColor=fff&style=flat)
-![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=fff&style=flat)
-![Markdown Badge](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=fff&style=flat)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=fff&style=flat)
+
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=fff&style=flat)
 ![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=StackOverflow&logoColor=fff&style=flat)
 
