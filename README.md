@@ -10,14 +10,19 @@
 
 💪 正在学习
 
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-  
+![GoLang Badge](https://img.shields.io/badge/GoLang-005b12?logo=go&logoColor=fff&style=flat
+)
+![MySQL Badge](https://img.shields.io/badge/MySQL-ff9300?logo=mysql&logoColor=fff&style=flat)
+
 🧠 计划学习
 
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Redis Badge](https://img.shields.io/badge/Redis-ff2700?logo=Redis&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+
 
 
 🧰 常用的工具
@@ -31,7 +36,7 @@
 
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=pr,c,cpp,mongodb,git,linux,redis,golang,python,qt,mysql,vscode,nginx,pytorch,markdown" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,mongodb,git,linux,redis,golang,python,qt,mysql,vscode,nginx,pytorch,markdown,pr" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -40,6 +45,9 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><br>
 
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/lovd_fan_pig?theme=light&font=Port%20Lligat%20Sans&ext=heatmap&site=cn)
 
 <!-- gif -->
 
