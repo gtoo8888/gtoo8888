@@ -1,3 +1,12 @@
+<!-- **About me**
+
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) -->
 
 
 <a href="https://gtoo8888.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -9,7 +18,7 @@
 
 
 <!-- 热门语言中，去掉了html,css,javascript,是自动生成的博客 -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gtoo8888&show_icons=true" alt="gtoo8888's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtoo8888&layout=compact&theme=buefy&hide_border=true&hide=html,css,javascript" alt="gtoo8888's github Top Languages"/></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gtoo8888&show_icons=true&hide_border=true" alt="gtoo8888's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtoo8888&layout=compact&theme=buefy&hide_border=true&hide=html,css,javascript" alt="gtoo8888's github Top Languages"/></a> |
 | ------------- | ------------- |
 
 
