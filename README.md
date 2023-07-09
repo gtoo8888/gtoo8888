@@ -23,7 +23,7 @@
 
 
 
-<div align="left"> <img src="https://leetcard.jacoblin.cool/lovd_fan_pig?theme=light&font=Port%20Lligat%20Sans&ext=heatmap&site=cn" /> </div>
+<!-- <div align="left"> <img src="https://leetcard.jacoblin.cool/lovd_fan_pig?theme=light&font=Port%20Lligat%20Sans&ext=heatmap&site=cn" /> </div> -->
 
 ✊ 掌握技能
 
